@@ -14,7 +14,7 @@
             Welcome to Laravel+Bootstrap 5
         </h1>
 
-        <p class="col-md-8 fs-4">Questa è la pagina iniziale. Per accedere alla dashboard clicca sul link in alto.</p>
+        <p class="col-md-8 fs-4">Questa è la pagina iniziale. Per accedere alla dashboard clicca sul link in alto in alto.</p>
         <a href="https://github.com/lambia/LC-20230627-laravel-template" class="btn btn-primary btn-lg" type="button">Documentation</a>
     </div>
 </div>
